@@ -1,0 +1,15 @@
+{
+    "name": "magnusmelin/qfunction",
+    "description": "Qfunction company homepage",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Magnus Melin",
+            "email": "qfunction@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "deployer/dist": "^6.4"
+    }
+}
