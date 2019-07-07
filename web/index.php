@@ -15,7 +15,7 @@
 			<meta name="author" content="Qfunction - Magnus Melin">
         </head>
 		<body>
-			<h1 style="font-size: 200px; font-weight: normal; text-align: center; margin-top: 200px;">q _ f</h1>
+			<h1 style="font-size: 200px; font-weight: normal; text-align: center; margin-top: 200px;">-q+f*</h1>
 		</body>
 	</html>';
 ?>
